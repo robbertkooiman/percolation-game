@@ -4,6 +4,7 @@
   "description": "Little game for the NVvW day 2020",
   "main": "app.js",
   "scripts": {
+    "start": "STANDALONE=true PORT=8080 node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
