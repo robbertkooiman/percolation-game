@@ -1,2 +1,3 @@
-﻿NVvW-demo/node_modules
-NVvW-demo/.idea
+node_modules/
+node_modules
+tmp/
